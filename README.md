@@ -1,18 +1,22 @@
 <div align="center">
-# 🚀 Thesims2
-### *High-Performance Interactive Web Experience & Canvas Engine*
 
-<p align="center">
-  [![Architect](https://img.shields.io/badge/Architect-Hsini%20Mohamed-0055ff?style=for-the-badge&logo=github&logoColor=white)](https://hsini.dev)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-hsini.dev-00c853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hsini.dev)
-  [![Language](https://img.shields.io/badge/Language-HTML-f59e0b?style=for-the-badge)](https://github.com/hsinidev)
-  [![Framework](https://img.shields.io/badge/Framework-WebGL%20/%20HTML5%20Canvas-6366f1?style=for-the-badge)](https://github.com/hsinidev)
-  [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Thesims2&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%" style="max-width: 100%; border-radius: 12px; margin-bottom: 20px;" alt="Thesims2 Header Banner" />
+
+  <h1>🚀 Thesims2</h1>
+  <p><em>High-Performance Interactive Web Experience & Canvas Engine</em></p>
+
+  <p align="center">
+    <a href="https://hsini.dev"><img src="https://img.shields.io/badge/Architect-Hsini%20Mohamed-0055ff?style=for-the-badge&logo=github&logoColor=white" alt="Architect: Hsini Mohamed" /></a>
+    <a href="https://hsini.dev"><img src="https://img.shields.io/badge/Portfolio-hsini.dev-00c853?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio: hsini.dev" /></a>
+    <a href="https://github.com/hsinidev"><img src="https://img.shields.io/badge/Language-HTML-e34c26?style=for-the-badge" alt="Language: HTML" /></a>
+    <a href="https://github.com/hsinidev"><img src="https://img.shields.io/badge/Framework-WebGL%20/%20HTML5%20Canvas-6366f1?style=for-the-badge" alt="Framework: WebGL / HTML5 Canvas" /></a>
+    <a href="https://github.com/hsinidev/thesims2"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License: MIT" /></a>
+  </p>
 
 </div>
 
 ---
+
 ## 🌟 Executive Overview
 
 **Thesims2** delivers a fast, responsive, and cross-platform browser experience built with **HTML** and hardware-accelerated canvas rendering.
@@ -25,6 +29,7 @@
 - **Local Storage State**: Automatic session persistence and state restoration.
 
 ---
+
 ## 🏗️ Architecture & Technology Stack
 
 - **Primary Language**: `HTML`
@@ -32,97 +37,6 @@
 - **Design Pattern**: Modular Clean Architecture / Domain-Driven Design
 - **License**: MIT Open Source Attribution
 
-## 📖 Deep-Dive Technical Documentation
-
-# Thesims2 - Play Online for Free
-
-## Overview
-Play Thesims2 online for free. Unblocked and available on all devices. Experience the best Thesims2 gameplay now!
-
-### Game Details & Guide
-Game Overview
-
-
-
-The Sims 2 is a life simulation video game developed by Maxis and published by Electronic Arts (EA). Released in 2004, it is the second installment in the The Sims series and a direct sequel to the original The Sims. In this game, players create and control their own Sim characters, guiding them through various life stages from birth to adulthood.
-
-
-
-How to Play
-
-
-
-To play The Sims 2, you will need to follow these steps:
-
-1. Create a new game: Launch the game and select "Create-a-Sim" or start a new game.
-2. Choose your Sim's characteristics: Select from a variety of traits, skills, and appearances for your Sim's basic attributes.
-3. Build their home: Use the game's building tools to construct and furnish your Sim's living space.
-4. Explore and socialize: Move around the world, visit other Sims' homes, and engage in social activities with other players.
-5. Create careers and skills: Pursue various career paths and develop new skills for your Sim.
-
-
-Controls
-
-
-
-To control your Sim, you can use the following keys:
-• W: Move forward
-• A: Move left
-• S: Move right
-• D: Move back
-• Space: Interact with objects or other Sims
-• I: Interact with inventory (open and close)
-• C: Open menu options
-• Shift: Toggle 3D mode
-• Ctrl: Toggle camera controls
-
-
-
-
-
-Tips and Tricks for Success
-
-
-
-Here are some tips to help you achieve success in The Sims 2:
-• Start small: Begin with a single Sim and gradually expand your family.
-• Build relationships: Nurture friendships and romantic relationships to gain access to new skills, careers, and items.
-• Manage finances: Balance your Sim's budget to ensure they have enough money for luxuries and necessities.
-• Pursue multiple career paths: Diversify your Sim's income streams to reduce financial stress.
-• Use the "Hotkeys" system: Press Alt + I to open the hotkeys menu and customize your keyboard layout.
-
-
-Why You Should Play It
-
-
-
-The Sims 2 offers a rich and immersive gameplay experience that allows players to explore various themes, careers, and relationships. With its vast array of customization options and creative freedom, it's no wonder why The Sims 2 remains a beloved game among fans.
-
-
-
-Additionally, the game encourages creativity, problem-solving, and social interaction, making it an excellent choice for players of all ages and skill levels. Whether you're a seasoned gamer or just starting out, The Sims 2 is sure to provide countless hours of entertainment and enjoyment.
-
-
-
-With its engaging gameplay, colorful graphics, and addictive mechanics, The Sims 2 is a must-play experience that will leave you hooked from start to finish. So why wait? Create your own Sim today and discover the endless possibilities of this iconic life simulation game!
-
-## Technical Specifications
-- **Technology**: Construct
-- **Compatible Browsers**: Chrome, Firefox, Safari, Edge
-- **Architecture**: Client-side execution (HTML5/JavaScript)
-
-## About the Project
-This game is part of a curated collection of high-performance web games maintained by **HSINI MOHAMED**. The project focuses on providing unblocked, fast-loading, and responsive gaming experiences to users worldwide.
-
-**HSINI MOHAMED**
-- **Email**: [hsini.web@gmail.com](mailto:hsini.web@gmail.com)
-- **Website**: [https://unlockedgames.io](https://unlockedgames.io)
-- **Portfolio**: [Explore more games](https://unlockedgames.io)
-
----
-© 2024 **HSINI MOHAMED**. All games are hosted and maintained for educational and entertainment purposes.
-
----
 ## 🚀 Quick Start & Installation
 
 ### 1. Clone the Repository
